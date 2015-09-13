@@ -1,0 +1,19 @@
+https://semantria.com/sentiment-analysis
+
+precision and recall
+
+True class A (TA) - correctly classified into class A
+False class A (FA) - incorrectly classified into class A
+True class B (TB) - correctly classified into class B
+False class B (FB) - incorrectly classified into class B
+
+precision = TA / (TA + FA)
+recall = TA / (TA + FB)
+
+You might also need accuracy and F-measure:
+
+accuracy = (TA + TB) / (TA + TB + FA + FB)
+f-measure = 2 * ((precision * recall)/(precision + recall))
+
+More here:
+http://en.wikipedia.org/wiki/Precision_and_recall#Definition_.28classification_context.29

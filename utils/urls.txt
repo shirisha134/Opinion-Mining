@@ -1,0 +1,26 @@
+http://www.toprankblog.com/2009/02/12-twitter-stream-aggregators/---different applications based various...applications
+http://stackoverflow.com/questions/5695564/get-all-past-tweets-via-twitter-streaming-api------for streaming past tweets
+https://tweetdeck.twitter.com/#
+https://dev.twitter.com/discussions/streaming-apis
+
+    Silhouette index (implementation in MATLAB)
+    Davies-Bouldin
+    Calinski-Harabasz
+    Dunn index (implementation in MATLAB)
+    R-squared index
+    Hubert-Levin (C-index)
+    Krzanowski-Lai index
+    Hartigan index
+    Root-mean-square standard deviation (RMSSTD) index
+    Semi-partial R-squared (SPR) index
+    Distance between two clusters (CD) index
+    weighted inter-intra index
+    Homogeneity index
+    Separation index
+
+
+There is a lot to be learned from our tweets. Laugh if you will. Go ahead. But Twitter has become an important historical and cultural record. It's a site for real-time news and information, to be sure. The stuff of history with a capital H. Politics. Natural disasters. Revolution. It's a site that records our cultural history as well…
+
+
+http://streamhacker.com/2012/11/22/text-classification-sentiment-analysis-nltk-scikitlearn/
+

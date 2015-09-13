@@ -1,0 +1,13 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+319
+282
+51
+129
+precision -----0.712054
+recall --------0.862162
+accuracy-------0.769526
+f_measure------- 0.779951100244
+>>> 

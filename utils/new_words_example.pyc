@@ -1,0 +1,24 @@
+Python 2.7.6 (default, Nov 10 2013, 19:24:18) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+no of pos words
+2328
+length of pos + neg words
+7112
+0
+14
+{'firstpost:': 1, 'nuke': 1, 'hit': 1, "modi's": 1, 'deal': 1, 'visit': 1, 'deal...': 1, '-': 1, 'hindunuke': 1, 'pm': 1, 'httdiannews': 1, 'japan': 1, ':': 1, 'latest': 1}
+0
+6
+{'all': 6, 'btw': 6, 'nationalist.': 6, 'little': 6, 'malayalam': 6, 'modi': 6}
+0
+14
+{'firstpost:': 1, 'nuke': 1, 'hit': 1, "modi's": 1, 'deal': 1, 'visit': 1, 'deal...': 1, '-': 1, 'hindunuke': 1, 'pm': 1, 'httdiannews': 1, 'japan': 1, ':': 1, 'latest': 1}
+0
+17
+{'billion': 0, 'do': 0, 'days:': 0, "cudn't": 0, 'achieved': 0, ')': 0, 'invest': 0, '(highest': 0, '$': 0, 'mms': 0, '.': 0, 'fdi': 0, 'modi': 0, 'billions.': 0, 'under': 0, 'japan': 0, '10yrs,': 0}
+0
+9
+{'100days': 0, 'sees': 0, 'sarkar:': 0, 'india': 0, 'economic': 0, '-days': 0, 'modi': 0, 'turnaround,': 0, 'pm': 0}
+>>> 
